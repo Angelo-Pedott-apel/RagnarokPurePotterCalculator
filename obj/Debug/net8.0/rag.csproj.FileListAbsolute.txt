@@ -1,0 +1,14 @@
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\bin\Debug\net8.0\rag.exe
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\bin\Debug\net8.0\rag.deps.json
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\bin\Debug\net8.0\rag.runtimeconfig.json
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\bin\Debug\net8.0\rag.dll
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\bin\Debug\net8.0\rag.pdb
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.AssemblyInfoInputs.cache
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.AssemblyInfo.cs
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.csproj.CoreCompileInputs.cache
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.dll
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\refint\rag.dll
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.pdb
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\rag.genruntimeconfig.cache
+C:\Users\Angelo_Pi\Documents\workspace\Pessoal\CSharp\rag\obj\Debug\net8.0\ref\rag.dll
