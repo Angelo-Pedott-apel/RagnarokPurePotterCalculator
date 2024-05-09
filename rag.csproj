@@ -7,12 +7,5 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Character.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Character.cs" />
-  </ItemGroup>
 
 </Project>
